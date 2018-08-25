@@ -1,0 +1,19 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+.Background {
+    background-color: red;
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    left: 0px;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+}
